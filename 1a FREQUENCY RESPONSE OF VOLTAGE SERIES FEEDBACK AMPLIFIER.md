@@ -1,6 +1,29 @@
 ## Exp. No. 1(a)
 **Date:**  
 ## FREQUENCY RESPONSE OF VOLTAGE SERIES FEEDBACK AMPLIFIER
+Aim:
+
+To design and analyze the voltage-series feedback amplifier and to calculate the following parameters with and without feedback.
+
+1.	Mid band gain. 
+2.	Bandwidth and cut-off frequencies. 
+3.	Gain Bandwidth Product.
+
+Components & Equipment required:
+
+Sl. No.	Components / Equipment	Range /	Quantity	
+		Specifications		
+				
+1	Power supply	(0-30)V	1	
+2	Function generator	(0-20M)Hz	1	
+3	CRO/DSO	50MHZ	1	
+4	Transistor	BC107	1	
+5	Resistors(OHMS)	47K,10K,1K,2.2K	Each 1	
+6	Capacitors(F)	47u, 100u	Each 1	
+7	Connecting wires	-	As required	
+
+
+
 <img width="1117" height="1192" alt="image" src="https://github.com/user-attachments/assets/53877086-6a31-494a-a6ac-e5746cacd3db" />
 <img width="778" height="1074" alt="image" src="https://github.com/user-attachments/assets/264fbf03-f65b-47f2-9ea4-879fb75144ee" />
 <img width="764" height="1017" alt="image" src="https://github.com/user-attachments/assets/ed43c68a-3de3-4e1a-bf01-5b5fb8c70186" />
