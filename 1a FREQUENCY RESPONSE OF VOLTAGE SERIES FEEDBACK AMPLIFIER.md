@@ -1,4 +1,4 @@
-## Exp. No. 1(a)
+ ## Exp. No. 1(a)
 **Date:**  
 ## FREQUENCY RESPONSE OF VOLTAGE SERIES FEEDBACK AMPLIFIER
 Aim:
@@ -32,17 +32,25 @@ Sl. No.	Components / Equipment	Range /	Quantity
 ## Without Feedback:
 <img width="637" height="365" alt="image" src="https://github.com/user-attachments/assets/191cd72d-ffbf-455c-8d74-09b13d791c7e" />
 
+![WhatsApp Image 2025-11-14 at 10 29 15_48f19e14](https://github.com/user-attachments/assets/3c523f56-1cd4-44f5-90f0-16172eee8de2)
+
 ## With Feedback:
 <img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/77ad03ce-ee9e-4a7e-950b-eeaad0aaa300" />
 
+![WhatsApp Image 2025-11-14 at 10 29 16_1733d206](https://github.com/user-attachments/assets/99b27d0e-f260-4faa-9c0a-ff984667965e)
+
+
 ## Tabulation
 
+![WhatsApp Image 2025-11-14 at 10 34 10_d2a6a2bd](https://github.com/user-attachments/assets/08a1cd95-655c-4715-a2cc-f58ab3954384)
 
 ## Graph
 
+![WhatsApp Image 2025-11-14 at 10 35 21_86b2ff2d](https://github.com/user-attachments/assets/821226a7-5b00-40f8-b17c-662d8e764cda)
 
 ## Sample images 
 
+![WhatsApp Image 2025-11-14 at 10 35 51_f8ac2bcd](https://github.com/user-attachments/assets/ca1d512a-e224-4725-b1c3-bf53ba5e97ca)
 
 ## **Result**
 Thus, the **voltage series feedback amplifier** is designed and constructed.  
@@ -50,11 +58,11 @@ The following parameters are calculated:
 
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency |f1 = 0.28KHZ|f1 = 0.24KHZ|
+| 2 | Upper cut-off frequency |f2 = 1.4MHZ|f2 = 2.7MHZ|
+| 3 | Bandwidth | BW = 1.39MHZ | BW = 2.6MHZ |
+| 4 | Mid-band Gain |AVMID = 21 |AVMID = 17.04 |
+| 5 | Gain at half power point |G0 = 4.84  | G0 = 12.08 |
 ---
 **Conclusion:**  
 The frequency response of the voltage-series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
