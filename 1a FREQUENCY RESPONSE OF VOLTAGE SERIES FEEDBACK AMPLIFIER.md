@@ -49,8 +49,7 @@ Sl. No.	Components / Equipment	Range /	Quantity
 ![WhatsApp Image 2025-11-14 at 10 35 21_86b2ff2d](https://github.com/user-attachments/assets/821226a7-5b00-40f8-b17c-662d8e764cda)
 
 ## Sample images 
-
-![WhatsApp Image 2025-11-14 at 10 35 51_f8ac2bcd](https://github.com/user-attachments/assets/ca1d512a-e224-4725-b1c3-bf53ba5e97ca)
+![WhatsApp Image 2025-11-20 at 22 30 38_a7b5048e](https://github.com/user-attachments/assets/366de69d-21df-4a89-8bd7-4d2a0f0a94f9)
 
 ## **Result**
 Thus, the **voltage series feedback amplifier** is designed and constructed.  
