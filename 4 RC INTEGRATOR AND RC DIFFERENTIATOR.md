@@ -22,12 +22,18 @@
 
 # Tabulation
 
+![WhatsApp Image 2025-11-23 at 15 47 49_e6c33eca](https://github.com/user-attachments/assets/9dc8d4c3-c29a-4aa1-ae1c-6de3f5b0b7b6)
+
 
 # Graph
+![WhatsApp Image 2025-11-23 at 15 47 49_44d3660e](https://github.com/user-attachments/assets/3ab32e43-7823-4148-a8f5-550eec3affab)
+![WhatsApp Image 2025-11-23 at 15 47 49_7d081fe7](https://github.com/user-attachments/assets/6b312619-9232-4459-a823-abab4dc36898)
 
 
-# Sample images 
+
 
 
 # Result
+![WhatsApp Image 2025-11-23 at 15 49 50_f29ef134](https://github.com/user-attachments/assets/dcb0c30f-d283-42a7-8fc2-178db8b488cc)
+
 
