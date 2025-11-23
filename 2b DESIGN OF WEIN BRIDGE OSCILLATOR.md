@@ -13,25 +13,22 @@
 # Circuit Diagram 
 <img width="514" height="273" alt="image" src="https://github.com/user-attachments/assets/626a6c59-d3af-497e-bd54-8c02c446e652" />
 
+![WhatsApp Image 2025-11-23 at 15 21 57_5c578c68](https://github.com/user-attachments/assets/8880c44f-4b5c-4d10-9bb6-b022ce904d9d)
+
+
 
 # Tabulation
-| Amplitude | Time Period | Practical Frequency | Theoretical Frequency |
-|------------|--------------|----------------------|------------------------|
-|            |              |                      |                        |
+![WhatsApp Image 2025-11-23 at 15 21 59_b08253a8](https://github.com/user-attachments/assets/645c1abc-f807-4e60-87c1-1306db7dda1b)
 
 
 
 # Graph
 
-
-# Sample images 
-
+![WhatsApp Image 2025-11-23 at 15 22 00_cb822753](https://github.com/user-attachments/assets/14a26093-977a-44a4-9bc0-6e4d4469bd0e)
 
 
 ## Result
+Thus, the **RC Phase Shift Oscillator** was designed for the given frequency.
 
-Thus, the **WEIN BRIDGE OSCILLATOR** was designed for the given frequency.
-
-- **(i) Theoretical Frequency:**  
-- **(ii) Practical Frequency:**  
-
+- **(i) Theoretical Frequency: 380KHZ
+- **(ii) Practical Frequency: 3.20KHz 
