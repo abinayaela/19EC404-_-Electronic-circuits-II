@@ -9,16 +9,30 @@
 ## Without Feedback:
 <img width="637" height="365" alt="image" src="https://github.com/user-attachments/assets/191cd72d-ffbf-455c-8d74-09b13d791c7e" />
 
+![WhatsApp Image 2025-11-23 at 14 19 31_cac39708](https://github.com/user-attachments/assets/e9905b8f-f501-43e3-b0e2-234833dade4f)
+
+
 ## With Feedback:
 <img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/77ad03ce-ee9e-4a7e-950b-eeaad0aaa300" />
 
+![WhatsApp Image 2025-11-23 at 14 19 44_e316d695](https://github.com/user-attachments/assets/8477439f-c185-4042-be85-29dfb32986fd)
+
+
+
+
 ## Tabulation
+![WhatsApp Image 2025-11-23 at 14 20 02_8d3255a5](https://github.com/user-attachments/assets/cf8871c8-0ada-4b6a-afcc-8e02be8cad97)
+
 
 
 ## Graph
+![WhatsApp Image 2025-11-23 at 14 20 16_cbb47830](https://github.com/user-attachments/assets/02684956-53a1-480c-8015-0f729d024c43)
+
 
 
 ## Sample images 
+![WhatsApp Image 2025-11-23 at 14 25 58_e812e39e](https://github.com/user-attachments/assets/b6db790d-80a3-46bb-b443-f46c3972b023)
+
 
 
 ## **Result**
@@ -27,11 +41,11 @@ The following parameters are calculated:
 
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency |f1 = 0.28KHZ | f1=0.24KHZ|
+| 2 | Upper cut-off frequency | f2= 1.4MHZ| f2 = 2.7MHZ |
+| 3 | Bandwidth | \( BW = 1.39MHZ) | \( BW = 2.6MHZ) |
+| 4 | Mid-band Gain | \( AVMID =21) | \( AVMID =17.04) |
+| 5 | Gain at half power point | GO=4.84 |GO =12.08 |
 ---
 **Conclusion:**  
 The frequency response of the voltage-series feedback amplifier was studied. It was observed that the **gain decreases** while the **bandwidth increases** when negative feedback is applied, confirming the theoretical expectations.
