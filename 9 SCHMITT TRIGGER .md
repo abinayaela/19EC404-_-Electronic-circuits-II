@@ -6,11 +6,15 @@
 
 # Circuit Diagram 
 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3f722554-892b-41c6-abb8-04442a223c09" />
+
 
 
 # Output Graph
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6ade4bf9-763a-4165-8f59-06ef67f29fcd" />
+
 
 
 
 # Result
-
+Thus the simulation of schmitt trigger circuit using LTspice is done and verified successfully
