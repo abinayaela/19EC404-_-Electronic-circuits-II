@@ -28,7 +28,8 @@
 
 
 ## Result
-Thus, the **RC Phase Shift Oscillator** was designed for the given frequency.
+Thus, the WEIN BRIDGE OSCILLATOR was designed for the given frequency.
 
-- **(i) Theoretical Frequency: 380KHZ
-- **(ii) Practical Frequency: 3.20KHz 
+**(i) Theoretical Frequency:1.5KHZ
+
+**(ii) Practical Frequency:900HZ
