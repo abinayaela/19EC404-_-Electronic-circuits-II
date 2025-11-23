@@ -5,7 +5,7 @@
 <img width="971" height="553" alt="image" src="https://github.com/user-attachments/assets/3d23d304-a2a9-466a-af4e-9badce4ac1f1" />
 
 # Circuit Diagram 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ee207ea6-5a34-4a97-8d26-8cca7cd997f0" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/ee207ea6-5a34-4a97-8d26-8cca7cd997f0" /> 
 
 
 
